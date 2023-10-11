@@ -1,6 +1,6 @@
 [package]
 name = "c_lexer_logos"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["Peter Blackson", "songzhi"]
 description = "A lexer for the C lanuage written with the Logos lexer library."

@@ -2,8 +2,8 @@ use logos::Logos;
 
 use self::token::Token;
 
-mod token;
-mod error;
+pub mod token;
+pub mod error;
 
 fn parse(input: &str) -> Result<Vec<Token>, error::Error> {
     let mut lex = Token::lexer(input);
