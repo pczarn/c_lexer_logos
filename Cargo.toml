@@ -2,6 +2,9 @@
 name = "c_lexer_logos"
 version = "0.1.0"
 edition = "2021"
+authors = ["Peter Blackson", "songzhi"]
+description = "A lexer for the C lanuage written with the Logos lexer library."
+license = "MIT/Apache-2.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
